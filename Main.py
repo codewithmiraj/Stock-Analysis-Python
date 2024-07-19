@@ -38,3 +38,14 @@ def plot_data():
   plt.show()
   
 plot_data()
+
+'''using seaborn to configure statistical plots'''
+
+def statistical_plots():
+  
+  #using pairplot we can see the distrubtion of data and the relationship between the dat
+ 
+  sns.pairplot(cleaned_data)
+
+
+statistical_plots()
