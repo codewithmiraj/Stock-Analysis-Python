@@ -1,4 +1,4 @@
-### Stock Analysis Python
+# Stock Analysis Python
 
 ## Project
 
