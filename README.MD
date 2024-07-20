@@ -13,4 +13,4 @@ This is a very simple stock analysis script in python. The aim is to see the per
 
 ## Visualisation
 
-![alt text](image.png)
+![Alt text](Images\stockimage.png)
